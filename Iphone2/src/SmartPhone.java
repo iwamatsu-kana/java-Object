@@ -13,5 +13,10 @@ public class SmartPhone extends Phone implements Mp3Player, NewFunction{
 	public void back(){
 		System.out.println("戻る");
 	}
+	@Override
+	public void paly() {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
 
 }
